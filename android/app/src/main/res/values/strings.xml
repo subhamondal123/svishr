@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">svishr</string>
+
+
+    <string name="facebook_app_id">3854790681504815</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">a143dfaf74a34d146a9d6485edf62db5</string>
+
+
+</resources>

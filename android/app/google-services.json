@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "769666324649",
+    "project_id": "svishr",
+    "storage_bucket": "svishr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769666324649:android:32f8ce86177bcfa78831b8",
+        "android_client_info": {
+          "package_name": "com.svishr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769666324649-li3jqvq7i47q663hka83fshud0f689s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.svishr",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "769666324649-a1pi6gpelj68siks549ki7qt8e2t22in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoHWZbsWcmnDfUcgpQAd1ej_TcSgoeQgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769666324649-a1pi6gpelj68siks549ki7qt8e2t22in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
